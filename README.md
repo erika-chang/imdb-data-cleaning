@@ -15,7 +15,7 @@ Practice key data cleaning steps using `pandas`, including:
 
 ## 📁 Dataset
 
-The Movies Dataset from Kaggle - The Movies Dataset contains over 45,000 movies with various attributes like title, genres, release year, revenue, vote count, and more.
+[The Movies Dataset from Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) - The Movies Dataset contains over 45,000 movies with various attributes like title, genres, release year, revenue, vote count, and more.
 
 ---
 
