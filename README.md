@@ -1,4 +1,4 @@
-# 🎬 IMDb Data Cleaning
+# 🎬 Movies Dataset Cleaning and Analysis
 
 ---
 
@@ -15,8 +15,7 @@ Practice key data cleaning steps using `pandas`, including:
 
 ## 📁 Dataset
 
-IMDb movie dataset available publicly from [this source](https://raw.githubusercontent.com/laxmimerit/IMDB-Movie-Data/master/IMDB-Movie-Data.csv).  
-It contains 1,000 movies with attributes such as title, genre, director, revenue, and metascore.
+The Movies Dataset from Kaggle - The Movies Dataset contains over 45,000 movies with various attributes like title, genres, release year, revenue, vote count, and more.
 
 ---
 
